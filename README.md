@@ -1,6 +1,6 @@
 # Tik-Tac-Toe-Game
 
-So guys this is 8th project of 30 days frontend project challenge 
+So guys this is 8th project of 25 days frontend project challenge 
 
 This is a simple game Tik Tac Toe 
 
